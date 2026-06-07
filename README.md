@@ -17,7 +17,7 @@ The script collects five inputs from the user and runs them through a series of 
 Run the script and answer the prompts:
 
 ```bash
-python travel_planner.py
+python travel_weather_planner.py
 ```
 ## What I Learned
 
